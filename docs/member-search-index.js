@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"librarymanagement","c":"libManage","l":"libManage()","u":"%3Cinit%3E()"},{"p":"librarymanagement","c":"libManage","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
