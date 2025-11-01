@@ -1,0 +1,15 @@
+# Ignore compiled Java class files
+*.class
+bin/
+out/
+
+# Ignore SSH key files
+id_ed25519_kanan
+id_ed25519_kanan.pub
+*.pub
+~*
+*.key
+
+# Ignore temporary files
+*.log
+*.tmp
